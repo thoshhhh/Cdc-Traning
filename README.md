@@ -5,31 +5,6 @@
 This repository contains hands-on Python, Data Science, and Machine Learning practice notebooks developed as part of the CDC Training Program.  
 It focuses on data cleaning, data analysis, visualization, and basic machine learning models using real-world datasets.
 
-# Repository Structure
-
-CDC Training/
-│
-├── Data_Cleaning.ipynb
-├── clustering.ipynb
-├── loan_predictor.ipynb
-├── Crop_predictor.ipynb
-│
-├── numpy_examples.ipynb
-├── pandas_examples.ipynb
-├── matplotlib_examples.ipynb
-├── seaborn_examples.ipynb
-├── ski_learn_example.ipynb
-├── opencv_example.ipynb
-│
-├── dataset.csv
-├── dataset2.csv
-├── house_price_dataset.csv
-├── loan_prediction_dataset.csv
-├── UBER_500.csv
-├── DATASET(MISSING).csv
-│
-└── kaggle.json
-
 # Project Objectives
 
 - Learn Python for Data Science
